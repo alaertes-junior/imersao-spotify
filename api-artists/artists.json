@@ -1,0 +1,25 @@
+{
+    "artists": [
+      { "id": 1, "name": "Foo Fighters", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" },
+      { "id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa" },
+      { "id": 3, "name": "Emicida", "genre": "Hip Hop", "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068" },
+      { "id": 4, "name": "Chitãozinho e Xororó", "genre": "Sertanejo", "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4" },
+      { "id": 5, "name": "Mc Coringa", "genre": "Funk", "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56" },
+      { "id": 6, "name": "Arlindo Cruz", "genre": "Samba", "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839" },
+      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+      { "id": 8, "name": "Bruno Mars", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616100005174c36dd9eb55fb0db4911f25dd" },
+      { "id": 9, "name": "Sabaton", "genre": "Power Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb97d68537c39dc8bcebbd9e6c" },
+      { "id": 10, "name": "ABBA", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab6775700000ee855abb9230b1d7497dfe9749dd" },
+      { "id": 11, "name": "MORADA", "genre": "Gospel", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf5ab51fc0e014d2d4337d87e" },
+      { "id": 12, "name": "Alan Jackson", "genre": "Country", "urlImg": "https://i.scdn.co/image/ab6772690000c46c1dce50b93ca0b1e2f459d9e6" },
+      { "id": 13, "name": "Green Day", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb" },
+      { "id": 14, "name": "Blind Guardian", "genre": "Power Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb26139a78b669ae67aacde9f3" },
+      { "id": 15, "name": "Wind Rose", "genre": "Folk Metal", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebb0635ebd8512bc791f6215b6" },
+      { "id": 16, "name": "Rammstein", "genre": "Industrial Metal", "urlImg": "https://i.scdn.co/image/ab6761610000517432845b1556f9dbdfe8ee6575" },
+      { "id": 17, "name": "Lynyrd Skynyrd", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5eb451eb07ddc6e68d3e474c2bf" },
+      { "id": 18, "name": "The Beatles", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433" },
+      { "id": 19, "name": "Queen", "genre": "Rock", "urlImg": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42" },
+      { "id": 20, "name": "Kiss", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000e5eba3ebf1fa0da019df3d02cc1e" }
+    ]
+  }
+  

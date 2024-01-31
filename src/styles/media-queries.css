@@ -1,0 +1,17 @@
+@media screen and (max-width: 1366px){
+    .offer_list_item {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media screen and (max-width: 1150px){
+    .offer_list_item {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 1000px){
+    .offer_list_item {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
